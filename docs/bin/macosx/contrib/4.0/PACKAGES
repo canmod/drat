@@ -1,0 +1,4 @@
+Package: iidda.list
+Version: 0.1.0
+Depends: dplyr
+MD5sum: 183d065e19a1e1a2cc4a12a86b9b37d1
