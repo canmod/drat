@@ -2,3 +2,8 @@ Package: iidda.list
 Version: 0.1.0
 Depends: dplyr
 MD5sum: 183d065e19a1e1a2cc4a12a86b9b37d1
+
+Package: oor
+Version: 0.0.0.9000
+License: GPL (>= 3)
+MD5sum: 3a8334106d86f5eb0379712e6fb523ce

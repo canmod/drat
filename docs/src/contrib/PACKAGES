@@ -12,3 +12,9 @@ Version: 0.1.0
 Depends: dplyr
 MD5sum: 0604ad0d2391e6af6fbb48adcdb523d0
 NeedsCompilation: no
+
+Package: oor
+Version: 0.0.0.9000
+License: GPL (>= 3)
+MD5sum: f4e15ae8ad7ffad599faa7fbf7086b30
+NeedsCompilation: no
