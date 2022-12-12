@@ -18,3 +18,9 @@ Version: 0.0.0.9000
 License: GPL (>= 3)
 MD5sum: 059fd3e250957272eb67b86a9d4647ac
 NeedsCompilation: no
+
+Package: oor
+Version: 0.0.1
+License: GPL (>= 3)
+MD5sum: 5b0072dbd5f6978deddb3a7a7a6262c5
+NeedsCompilation: no
