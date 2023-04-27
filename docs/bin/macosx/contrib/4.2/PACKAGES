@@ -1,3 +1,10 @@
+Package: macpan2helpers
+Version: 0.0.0.9000
+Imports: macpan2, visNetwork
+Suggests: testthat (>= 3.0.0)
+License: GPL (>= 3)
+MD5sum: ca16dbe5f74b663e33f4c6ff0ff8fd67
+
 Package: oor
 Version: 0.0.0.9000
 License: GPL (>= 3)

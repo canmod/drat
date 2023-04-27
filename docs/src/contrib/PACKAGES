@@ -13,6 +13,14 @@ Depends: dplyr
 MD5sum: 0604ad0d2391e6af6fbb48adcdb523d0
 NeedsCompilation: no
 
+Package: macpan2helpers
+Version: 0.0.0.9000
+Imports: macpan2, visNetwork
+Suggests: testthat (>= 3.0.0)
+License: GPL (>= 3)
+MD5sum: 7e5d02dc3d79f51e8d9d03a60eab71d6
+NeedsCompilation: no
+
 Package: oor
 Version: 0.0.0.9000
 License: GPL (>= 3)
