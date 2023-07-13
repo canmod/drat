@@ -21,6 +21,15 @@ License: GPL (>= 3)
 MD5sum: 7e5d02dc3d79f51e8d9d03a60eab71d6
 NeedsCompilation: no
 
+Package: macpan2helpers
+Version: 0.0.1
+Depends: macpan2
+Imports: visNetwork, dplyr, tidyr, ggplot2
+Suggests: deSolve, testthat (>= 3.0.0), waldo
+License: GPL (>= 3)
+MD5sum: a4aa32f7570a6c7c611bb98517542a9b
+NeedsCompilation: no
+
 Package: oor
 Version: 0.0.0.9000
 License: GPL (>= 3)
