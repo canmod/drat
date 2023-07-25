@@ -5,3 +5,11 @@ Imports: visNetwork, dplyr, tidyr, ggplot2
 Suggests: deSolve, testthat (>= 3.0.0), waldo
 License: GPL (>= 3)
 MD5sum: 716dea38d77f51950391bf454a1ed38a
+
+Package: macpan2helpers
+Version: 0.0.2
+Depends: macpan2
+Imports: visNetwork, dplyr, tidyr, ggplot2
+Suggests: deSolve, testthat (>= 3.0.0), waldo, outbreaks
+License: GPL (>= 3)
+MD5sum: efcacbb12fc449cc08bb11f972e7bedd
