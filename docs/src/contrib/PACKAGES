@@ -13,6 +13,17 @@ Depends: dplyr
 MD5sum: 0604ad0d2391e6af6fbb48adcdb523d0
 NeedsCompilation: no
 
+Package: macpan2
+Version: 1.0.0
+Depends: R (>= 4.1.0),
+Imports: TMB, oor, jsonlite, MASS, memoise
+LinkingTo: TMB, RcppEigen, Rcpp
+Suggests: covr, knitr, rmarkdown, dplyr, tidyr, ggplot2, testthat (>= 3.0.0), htmltools, visNetwork,
+            macpan2helpers, kableExtra, broom.mixed, outbreaks, tmbstan, numDeriv, parallel
+License: GPL-3
+MD5sum: b4aa84f7fbf89563c5419d9d8663ec2c
+NeedsCompilation: yes
+
 Package: macpan2helpers
 Version: 0.0.0.9000
 Imports: macpan2, visNetwork
