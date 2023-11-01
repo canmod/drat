@@ -1,3 +1,13 @@
+Package: macpan2
+Version: 1.0.0
+Depends: R (>= 4.1.0),
+Imports: TMB, oor, jsonlite, MASS, memoise
+LinkingTo: TMB, RcppEigen, Rcpp
+Suggests: covr, knitr, rmarkdown, dplyr, tidyr, ggplot2, testthat (>= 3.0.0), htmltools, visNetwork,
+            macpan2helpers, kableExtra, broom.mixed, outbreaks, tmbstan, numDeriv, parallel
+License: GPL-3
+MD5sum: 6827af3b6e12c73b78e33e830ab22dd7
+
 Package: macpan2helpers
 Version: 0.0.1
 Depends: macpan2
