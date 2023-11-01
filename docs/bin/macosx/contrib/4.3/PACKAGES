@@ -6,7 +6,7 @@ LinkingTo: TMB, RcppEigen, Rcpp
 Suggests: covr, knitr, rmarkdown, dplyr, tidyr, ggplot2, testthat (>= 3.0.0), htmltools, visNetwork,
             macpan2helpers, kableExtra, broom.mixed, outbreaks, tmbstan, numDeriv, parallel
 License: GPL-3
-MD5sum: 6827af3b6e12c73b78e33e830ab22dd7
+MD5sum: 175e2e42c6bede15569a97c289cb6e0a
 
 Package: macpan2helpers
 Version: 0.0.1

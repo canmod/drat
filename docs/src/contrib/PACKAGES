@@ -21,7 +21,7 @@ LinkingTo: TMB, RcppEigen, Rcpp
 Suggests: covr, knitr, rmarkdown, dplyr, tidyr, ggplot2, testthat (>= 3.0.0), htmltools, visNetwork,
             macpan2helpers, kableExtra, broom.mixed, outbreaks, tmbstan, numDeriv, parallel
 License: GPL-3
-MD5sum: b4aa84f7fbf89563c5419d9d8663ec2c
+MD5sum: 36c2c663d3114133ec99989df4b0f37d
 NeedsCompilation: yes
 
 Package: macpan2helpers
