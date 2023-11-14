@@ -18,10 +18,11 @@ Version: 1.0.0
 Depends: R (>= 4.1.0),
 Imports: TMB, oor, jsonlite, MASS, memoise
 LinkingTo: TMB, RcppEigen, Rcpp
-Suggests: covr, knitr, rmarkdown, dplyr, tidyr, ggplot2, testthat (>= 3.0.0), htmltools, visNetwork,
-            macpan2helpers, kableExtra, broom.mixed, outbreaks, tmbstan, numDeriv, parallel
+Suggests: covr, knitr, rmarkdown, dplyr, tidyr, ggplot2, testthat (>= 3.0.0), htmltools,
+          visNetwork, macpan2helpers, kableExtra, broom.mixed, outbreaks, tmbstan, numDeriv,
+          parallel
 License: GPL-3
-MD5sum: 36c2c663d3114133ec99989df4b0f37d
+MD5sum: 4280d6d426128d56c1b0e6ee0c739857
 NeedsCompilation: yes
 
 Package: macpan2helpers
